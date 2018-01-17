@@ -1,3 +1,9 @@
+Repo forked from existing nltk python package to fix https problem with 'distribute' dependency. 
+
+Original readme:
+
+
+
 Natural Language Toolkit (NLTK)   www.nltk.org
 
 Authors: Steven Bird <sb@csse.unimelb.edu.au>
